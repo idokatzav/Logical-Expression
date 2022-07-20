@@ -31,4 +31,4 @@ ant compile
 ant run
 ```
 ## Using the classes
-Use the Expressions created and the methods.
+Use the Expressions created int the project, and their methods.
