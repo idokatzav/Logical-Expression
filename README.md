@@ -30,4 +30,5 @@ ant compile
 ```bash
 ant run
 ```
-3. Use the Expressions created and the methods.
+## Using the classes
+Use the Expressions created and the methods.
