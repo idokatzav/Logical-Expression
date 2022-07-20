@@ -1,22 +1,21 @@
 # Logical Expressions
-<pre>An implementation of logical expressions.
-Can show a complex logical expression, and can evaluate with given values of the variables.
-Written in java.
-Implements:
-Expression
-	BaseExpression:
-		UnaryExpression:
-			Not
-		Binary Expression:
-			And
-			Or
-			Xor
-			Nand
-			Nor
-			Xnor
-	Var class
-	Val class
-</pre>
+An implementation of logical expressions.<br/>
+Can show a complex logical expression, and can evaluate with given values of the variables.<br/>
+Written in java.<br/>
+Implements:<br/>
+Expression<br/>
+\tBaseExpression:<br/>
+\t\tUnaryExpression:<br/>
+\t\t\tNot<br/>
+\t\tBinary Expression:<br/>
+\t\t\tAnd<br/>
+\t\t\tOr<br/>
+\t\t\tXor<br/>
+\t\t\tNand<br/>
+\t\t\tNor<br/>
+\t\t\tXnor<br/>
+\tVar class<br/>
+\tVal class<br/>
 ## Installation
 Clone the repository
 ```bash
