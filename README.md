@@ -1,5 +1,5 @@
 # Logical Expressions
-An implementation of logical expressions.
+<pre>An implementation of logical expressions.
 Can show a complex logical expression, and can evaluate with given values of the variables.
 Written in java.
 Implements:
@@ -16,6 +16,7 @@ Expression
 			Xnor
 	Var class
 	Val class
+</pre>
 ## Installation
 Clone the repository
 ```bash
