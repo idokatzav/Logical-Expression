@@ -6,16 +6,16 @@ Implements:<br/>
 Expression:
 -Var class<br/>
 -Val class<br/>
--BaseExpression:
---UnaryExpression:
----Not
---Binary Expression:
----And
----Or
----Xor
----Nand
----Nor
----Xnor
+-BaseExpression:<br/>
+--UnaryExpression:<br/>
+---Not<br/>
+--Binary Expression:<br/>
+---And<br/>
+---Or<br/>
+---Xor<br/>
+---Nand<br/>
+---Nor<br/>
+---Xnor<br/>
 ## Installation
 Clone the repository
 ```bash
