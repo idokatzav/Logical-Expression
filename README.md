@@ -4,18 +4,18 @@ Can show a complex logical expression, and can evaluate with given values of the
 Written in java.<br/>
 Implements:<br/>
 Expression<br/>
-  BaseExpression:<br/>
-\t\tUnaryExpression:<br/>
-\t\t\tNot<br/>
-\t\tBinary Expression:<br/>
-\t\t\tAnd<br/>
-\t\t\tOr<br/>
-\t\t\tXor<br/>
-\t\t\tNand<br/>
-\t\t\tNor<br/>
-\t\t\tXnor<br/>
-\tVar class<br/>
-\tVal class<br/>
+    BaseExpression:<br/>
+        UnaryExpression:<br/>
+            Not<br/>
+        Binary Expression:<br/>
+            And<br/>
+            Or<br/>
+            Xor<br/>
+            Nand<br/>
+            Nor<br/>
+            Xnor<br/>
+    Var class<br/>
+    Val class<br/>
 ## Installation
 Clone the repository
 ```bash
