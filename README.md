@@ -3,19 +3,19 @@ An implementation of logical expressions.<br/>
 Can show a complex logical expression, and can evaluate with given values of the variables.<br/>
 Written in java.<br/>
 Implements:<br/>
-Expression<br/>
-&emspBaseExpression:<br/>
-&emsp&emspUnaryExpression:<br/>
-&emsp&emsp&emspNot<br/>
-&emsp&emspBinary Expression:<br/>
-&emsp&emsp&emspAnd<br/>
-&emsp&emsp&emspOr<br/>
-&emsp&emsp&emspXor<br/>
-&emsp&emsp&emspNand<br/>
-&emsp&emsp&emspNor<br/>
-&emsp&emsp&emspXnor<br/>
-&emspVar class<br/>
-&emspVal class<br/>
+Expression:
+-Var class<br/>
+-Val class<br/>
+-BaseExpression:
+--UnaryExpression:
+---Not
+--Binary Expression:
+---And
+---Or
+---Xor
+---Nand
+---Nor
+---Xnor
 ## Installation
 Clone the repository
 ```bash
